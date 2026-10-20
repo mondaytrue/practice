@@ -513,7 +513,6 @@ public class Practice04 {
                     System.out.print("_ ");
                 }
             }
-            System.out.println();
         }
     }
 }
